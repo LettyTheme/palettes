@@ -1,0 +1,29 @@
+{
+  "name": "Letty Aurora",
+  "type": "dark",
+  "space": "sRGB",
+  "hexColors": {
+      "fg1": "#D9D5E5",
+      "fg2": "#807B9F",
+      "fg3": "#807B9F",
+      "bg1": "#302F3F",
+      "bg2": "#302F3F",
+      "bg3": "#463E62",
+      "bg_line": "#2a2939",
+      
+      "rose": "#D1789E",
+      "orchid": "#C48DE2",
+      "iris": "#9A8BE2",
+      "aqua": "#8BB2E0",
+      "juniper": "#8CB6BC",
+      "prairie": "#93B98F",
+      "sunflower": "#E1B87B",
+      "tulip": "#D49282",
+    
+      "deep_orchid": "#D0B3E7",
+      "pale_orchid": "#9980BA",
+      "deep_iris": "#CDC1FF",
+      "deep_marine": "#BCD2ED",
+      "pale_aqua": "#90ACC7"
+  }
+}

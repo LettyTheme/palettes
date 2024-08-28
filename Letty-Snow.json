@@ -1,0 +1,28 @@
+{
+  "name": "Letty Snow",
+  "type": "light",
+  "space": "sRGB",
+  "hexColors": {
+      "fg1": "#4E465F",
+      "fg2": "#6E697D",
+      "fg3": "#A199B3",
+      "bg1": "#FFFFFF",
+      "bg2": "#F5F3FA",
+      "bg3": "#DFDAF0",
+      "bg_line": "#F5F3FA",
+      "rose": "#BF5E89",
+      "orchid": "#AD72B9",
+      "iris": "#7675BC",
+      "aqua": "#5E8FBE",
+      "juniper": "#668C92",
+      "prairie": "#759972",
+      "sunflower": "#E1B87B",
+      "tulip": "#DA8C6B",
+
+      "deep_orchid": "#895CA0",
+      "pale_orchid": "#BE9BC3",
+      "deep_iris": "#675792",
+      "deep_marine": "#4D5687",
+      "pale_aqua": "#90ACC7"
+  }
+}
